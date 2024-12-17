@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16C91285-DC97-4A85-BB1B-6A44C8C525F9}|WestWindWeb\\WestWindWeb.csproj|c:\\users\\mesai\\downloads\\compressed\\fall-2024-e02-instructor-workbook-main_2\\fall-2024-e02-instructor-workbook-main\\westwindexamples\\westwindweb\\components\\pages\\productcrud.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C91285-DC97-4A85-BB1B-6A44C8C525F9}|WestWindWeb\\WestWindWeb.csproj|solutionrelative:westwindweb\\components\\pages\\productcrud.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductCRUD.razor.cs",
+              "DocumentMoniker": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\WestWindWeb\\Components\\Pages\\ProductCRUD.razor.cs",
+              "RelativeDocumentMoniker": "WestWindWeb\\Components\\Pages\\ProductCRUD.razor.cs",
+              "ToolTip": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\WestWindWeb\\Components\\Pages\\ProductCRUD.razor.cs",
+              "RelativeToolTip": "WestWindWeb\\Components\\Pages\\ProductCRUD.razor.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAUwHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:06:35.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

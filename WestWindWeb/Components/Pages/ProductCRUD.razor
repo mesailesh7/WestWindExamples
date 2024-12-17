@@ -1,0 +1,102 @@
+﻿@page "/product/{productId:int?}"
+<!--
+    is the page declatation we can add a parameter
+    they are always in { } to indicate the string substition
+    page directive with a parameter allows for a nullable int to be added to the url path
+    nullable because int? - the ? makes it nullable
+    any parameter in the page directive needs to have a parameter in the C#
+-->
+<PageTitle>Product CRUD</PageTitle>
+
+<h3>Product CRUD</h3>
+
+@if (errorMsgs.Count > 0)
+{
+    <div class="alert alert-danger">
+        <p>Please fix the following issues:</p>
+        <ul>
+            @foreach (var error in errorMsgs)
+            {
+                <li>@error</li>
+            }
+        </ul>
+    </div>
+}
+
+@if(feedback.Length > 0)
+{
+    <div class="alert alert-info">
+        <p>@feedback</p>
+    </div>
+}
+
+<EditForm OnValidSubmit="OnValidSubmit" EditContext="editContext">
+    <DataAnnotationsValidator />
+    <div class="row">
+        <div class="col form-group">
+            <label for="productName">Product Name</label>
+            <InputText id="productName" class="form-control" @bind-Value="product.ProductName" />
+            <ValidationMessage For="@(() => product.ProductName)" />
+        </div>
+        <div class="col form-group">
+            <label for="unitPrice">Unit Price</label>
+            <InputNumber id="unitPrice" class="form-control" @bind-Value="product.UnitPrice" />
+            <ValidationMessage For="@(() => product.UnitPrice)" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col form-group">
+            <label for="supplier">Supplier</label>
+            <InputSelect @bind-Value="product.SupplierID" class="form-select" id="supplier">
+                <option value="0">Select a Supplier...</option>
+                @foreach(var item in suppliers)
+                {
+                    <option value="@item.SupplierID">@item.CompanyName</option>
+                }
+            </InputSelect>
+            <ValidationMessage For="@(() => product.SupplierID)" />
+        </div>
+        <div class="col form-group">
+            <label for="category">Category</label>
+            <InputSelect @bind-Value="product.CategoryID" class="form-select" id="category">
+                <option value="0">Select a Category...</option>
+                @foreach (var item in categories)
+                {
+                    <option value="@item.CategoryID">@item.CategoryName</option>
+                }
+            </InputSelect>
+            <ValidationMessage For="@(() => product.CategoryID)" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col form-group">
+            <label for="quantityPerUnit">Quantity Per Unit</label>
+            <InputText id="quantityPerUnit" class="form-control" @bind-Value="product.QuantityPerUnit" />
+            <ValidationMessage For="@(() => product.QuantityPerUnit)" />
+        </div>
+        <div class="col form-group d-flex flex-wrap align-content-center">
+            <InputCheckbox id="discontinued" class="form-check-input" style="margin-right: 8px;" @bind-Value="product.Discontinued" onclick="return false;" />
+            <label for="discontinued" class="form-check-label">Discontinued</label>
+            <ValidationMessage For="@(() => product.Discontinued)" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-2 mx-auto">
+            <button type="submit" class="btn btn-primary mt-2">@(isNew ? "Add Product" : "Update Product")</button>
+        </div>
+        @if(!isNew)
+        {
+            <!--This is not a submit button, that validates. We need onclick to call a method-->
+            <div class="col-2 mx-auto">
+                <button onclick="@(() => DeleteProduct())" type="button" class="btn btn-danger mt-2">Delete Product</button>
+            </div>
+            @if(product.Discontinued)
+            {
+                <div class="col-2 mx-auto">
+                    <button  @onclick="ReactivateProduct" type="button" class="btn btn-success mt-2"> Reactivate Product</button>
+                </div>
+            }
+            
+        }
+    </div>
+</EditForm>

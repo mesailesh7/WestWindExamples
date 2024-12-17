@@ -1,0 +1,38 @@
+﻿<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">
+            <img src="./img/WestWindLogo.png" alt="Logo"
+                 style="width:40px; height:40px;"
+                 title="Go to home" /> &nbsp;&nbsp;
+                 WestWind App
+        </a>
+    </div>
+</div>
+
+<input type="checkbox" title="Navigation menu" class="navbar-toggler" />
+
+<div class="nav-scrollable" onclick="document.querySelector('.navbar-toggler').click()">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
+            </NavLink>
+            <NavLink class="nav-link" href="/products" Match="NavLinkMatch.All">
+                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Product List
+            </NavLink>
+            <NavLink class="nav-link" href="/product" Match="NavLinkMatch.All">
+                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Product CRUD
+            </NavLink>
+            <NavLink class="nav-link" href="/annotation" Match="NavLinkMatch.All">
+                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Annotation Example
+            </NavLink>
+            <NavLink class="nav-link" href="/annotationfront" Match="NavLinkMatch.All">
+                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Valid W/ FrontEnd
+            </NavLink>
+            <NavLink class="nav-link" href="/fluentValidation" Match="NavLinkMatch.All">
+                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Fluent Example
+            </NavLink>
+        </div>
+    </nav>
+</div>
+

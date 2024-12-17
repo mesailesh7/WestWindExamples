@@ -1,0 +1,14 @@
+C:\Users\mesai\Downloads\Compressed\Fall-2024-E02-Instructor-Workbook-main_2\Fall-2024-E02-Instructor-Workbook-main\WestWindExamples\WestWindLibrary\bin\Debug\net8.0\WestWindLibrary.deps.json
+C:\Users\mesai\Downloads\Compressed\Fall-2024-E02-Instructor-Workbook-main_2\Fall-2024-E02-Instructor-Workbook-main\WestWindExamples\WestWindLibrary\bin\Debug\net8.0\WestWindLibrary.runtimeconfig.json
+C:\Users\mesai\Downloads\Compressed\Fall-2024-E02-Instructor-Workbook-main_2\Fall-2024-E02-Instructor-Workbook-main\WestWindExamples\WestWindLibrary\bin\Debug\net8.0\WestWindLibrary.dll
+C:\Users\mesai\Downloads\Compressed\Fall-2024-E02-Instructor-Workbook-main_2\Fall-2024-E02-Instructor-Workbook-main\WestWindExamples\WestWindLibrary\bin\Debug\net8.0\WestWindLibrary.pdb
+C:\Users\mesai\Downloads\Compressed\Fall-2024-E02-Instructor-Workbook-main_2\Fall-2024-E02-Instructor-Workbook-main\WestWindExamples\WestWindLibrary\obj\Debug\net8.0\WestWindLibrary.csproj.AssemblyReference.cache
+C:\Users\mesai\Downloads\Compressed\Fall-2024-E02-Instructor-Workbook-main_2\Fall-2024-E02-Instructor-Workbook-main\WestWindExamples\WestWindLibrary\obj\Debug\net8.0\WestWindLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesai\Downloads\Compressed\Fall-2024-E02-Instructor-Workbook-main_2\Fall-2024-E02-Instructor-Workbook-main\WestWindExamples\WestWindLibrary\obj\Debug\net8.0\WestWindLibrary.AssemblyInfoInputs.cache
+C:\Users\mesai\Downloads\Compressed\Fall-2024-E02-Instructor-Workbook-main_2\Fall-2024-E02-Instructor-Workbook-main\WestWindExamples\WestWindLibrary\obj\Debug\net8.0\WestWindLibrary.AssemblyInfo.cs
+C:\Users\mesai\Downloads\Compressed\Fall-2024-E02-Instructor-Workbook-main_2\Fall-2024-E02-Instructor-Workbook-main\WestWindExamples\WestWindLibrary\obj\Debug\net8.0\WestWindLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mesai\Downloads\Compressed\Fall-2024-E02-Instructor-Workbook-main_2\Fall-2024-E02-Instructor-Workbook-main\WestWindExamples\WestWindLibrary\obj\Debug\net8.0\WestWindLibrary.dll
+C:\Users\mesai\Downloads\Compressed\Fall-2024-E02-Instructor-Workbook-main_2\Fall-2024-E02-Instructor-Workbook-main\WestWindExamples\WestWindLibrary\obj\Debug\net8.0\refint\WestWindLibrary.dll
+C:\Users\mesai\Downloads\Compressed\Fall-2024-E02-Instructor-Workbook-main_2\Fall-2024-E02-Instructor-Workbook-main\WestWindExamples\WestWindLibrary\obj\Debug\net8.0\WestWindLibrary.pdb
+C:\Users\mesai\Downloads\Compressed\Fall-2024-E02-Instructor-Workbook-main_2\Fall-2024-E02-Instructor-Workbook-main\WestWindExamples\WestWindLibrary\obj\Debug\net8.0\WestWindLibrary.genruntimeconfig.cache
+C:\Users\mesai\Downloads\Compressed\Fall-2024-E02-Instructor-Workbook-main_2\Fall-2024-E02-Instructor-Workbook-main\WestWindExamples\WestWindLibrary\obj\Debug\net8.0\ref\WestWindLibrary.dll

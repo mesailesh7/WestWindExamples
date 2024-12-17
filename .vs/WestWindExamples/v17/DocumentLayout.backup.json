@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16C91285-DC97-4A85-BB1B-6A44C8C525F9}|WestWindWeb\\WestWindWeb.csproj|c:\\users\\mesai\\downloads\\compressed\\fall-2024-e02-instructor-workbook-main_2\\fall-2024-e02-instructor-workbook-main\\westwindexamples\\westwindweb\\components\\pages\\dataannotationexample.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C91285-DC97-4A85-BB1B-6A44C8C525F9}|WestWindWeb\\WestWindWeb.csproj|solutionrelative:westwindweb\\components\\pages\\dataannotationexample.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C91285-DC97-4A85-BB1B-6A44C8C525F9}|WestWindWeb\\WestWindWeb.csproj|c:\\users\\mesai\\downloads\\compressed\\fall-2024-e02-instructor-workbook-main_2\\fall-2024-e02-instructor-workbook-main\\westwindexamples\\westwindweb\\components\\pages\\dataannotationexample.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16C91285-DC97-4A85-BB1B-6A44C8C525F9}|WestWindWeb\\WestWindWeb.csproj|solutionrelative:westwindweb\\components\\pages\\dataannotationexample.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C91285-DC97-4A85-BB1B-6A44C8C525F9}|WestWindWeb\\WestWindWeb.csproj|c:\\users\\mesai\\downloads\\compressed\\fall-2024-e02-instructor-workbook-main_2\\fall-2024-e02-instructor-workbook-main\\westwindexamples\\westwindweb\\components\\pages\\productlist.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C91285-DC97-4A85-BB1B-6A44C8C525F9}|WestWindWeb\\WestWindWeb.csproj|solutionrelative:westwindweb\\components\\pages\\productlist.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C91285-DC97-4A85-BB1B-6A44C8C525F9}|WestWindWeb\\WestWindWeb.csproj|c:\\users\\mesai\\downloads\\compressed\\fall-2024-e02-instructor-workbook-main_2\\fall-2024-e02-instructor-workbook-main\\westwindexamples\\westwindweb\\components\\pages\\dataannotationexamplefrontend.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C91285-DC97-4A85-BB1B-6A44C8C525F9}|WestWindWeb\\WestWindWeb.csproj|solutionrelative:westwindweb\\components\\pages\\dataannotationexamplefrontend.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C91285-DC97-4A85-BB1B-6A44C8C525F9}|WestWindWeb\\WestWindWeb.csproj|c:\\users\\mesai\\downloads\\compressed\\fall-2024-e02-instructor-workbook-main_2\\fall-2024-e02-instructor-workbook-main\\westwindexamples\\westwindweb\\components\\pages\\dataannotationexamplefrontend.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16C91285-DC97-4A85-BB1B-6A44C8C525F9}|WestWindWeb\\WestWindWeb.csproj|solutionrelative:westwindweb\\components\\pages\\dataannotationexamplefrontend.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D28BD3-0A52-4962-8428-6E43CF8DBC51}|WestWindLibrary\\WestWindLibrary.csproj|c:\\users\\mesai\\downloads\\compressed\\fall-2024-e02-instructor-workbook-main_2\\fall-2024-e02-instructor-workbook-main\\westwindexamples\\westwindlibrary\\entities\\personexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D28BD3-0A52-4962-8428-6E43CF8DBC51}|WestWindLibrary\\WestWindLibrary.csproj|solutionrelative:westwindlibrary\\entities\\personexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D28BD3-0A52-4962-8428-6E43CF8DBC51}|WestWindLibrary\\WestWindLibrary.csproj|c:\\users\\mesai\\downloads\\compressed\\fall-2024-e02-instructor-workbook-main_2\\fall-2024-e02-instructor-workbook-main\\westwindexamples\\westwindlibrary\\bll\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D28BD3-0A52-4962-8428-6E43CF8DBC51}|WestWindLibrary\\WestWindLibrary.csproj|solutionrelative:westwindlibrary\\bll\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D28BD3-0A52-4962-8428-6E43CF8DBC51}|WestWindLibrary\\WestWindLibrary.csproj|c:\\users\\mesai\\downloads\\compressed\\fall-2024-e02-instructor-workbook-main_2\\fall-2024-e02-instructor-workbook-main\\westwindexamples\\westwindlibrary\\bll\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D28BD3-0A52-4962-8428-6E43CF8DBC51}|WestWindLibrary\\WestWindLibrary.csproj|solutionrelative:westwindlibrary\\bll\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataAnnotationExample.razor",
+              "DocumentMoniker": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\WestWindWeb\\Components\\Pages\\DataAnnotationExample.razor",
+              "RelativeDocumentMoniker": "WestWindWeb\\Components\\Pages\\DataAnnotationExample.razor",
+              "ToolTip": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\WestWindWeb\\Components\\Pages\\DataAnnotationExample.razor",
+              "RelativeToolTip": "WestWindWeb\\Components\\Pages\\DataAnnotationExample.razor",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T02:49:31.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAnnotationExample.razor.cs",
+              "DocumentMoniker": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\WestWindWeb\\Components\\Pages\\DataAnnotationExample.razor.cs",
+              "RelativeDocumentMoniker": "WestWindWeb\\Components\\Pages\\DataAnnotationExample.razor.cs",
+              "ToolTip": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\WestWindWeb\\Components\\Pages\\DataAnnotationExample.razor.cs",
+              "RelativeToolTip": "WestWindWeb\\Components\\Pages\\DataAnnotationExample.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:49:36.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductList.razor.cs",
+              "DocumentMoniker": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\WestWindWeb\\Components\\Pages\\ProductList.razor.cs",
+              "RelativeDocumentMoniker": "WestWindWeb\\Components\\Pages\\ProductList.razor.cs",
+              "ToolTip": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\WestWindWeb\\Components\\Pages\\ProductList.razor.cs",
+              "RelativeToolTip": "WestWindWeb\\Components\\Pages\\ProductList.razor.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv04AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:32:59.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAnnotationExampleFrontEnd.razor.cs",
+              "DocumentMoniker": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\WestWindWeb\\Components\\Pages\\DataAnnotationExampleFrontEnd.razor.cs",
+              "RelativeDocumentMoniker": "WestWindWeb\\Components\\Pages\\DataAnnotationExampleFrontEnd.razor.cs",
+              "ToolTip": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\WestWindWeb\\Components\\Pages\\DataAnnotationExampleFrontEnd.razor.cs",
+              "RelativeToolTip": "WestWindWeb\\Components\\Pages\\DataAnnotationExampleFrontEnd.razor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:11:26.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataAnnotationExampleFrontEnd.razor",
+              "DocumentMoniker": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\WestWindWeb\\Components\\Pages\\DataAnnotationExampleFrontEnd.razor",
+              "RelativeDocumentMoniker": "WestWindWeb\\Components\\Pages\\DataAnnotationExampleFrontEnd.razor",
+              "ToolTip": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\WestWindWeb\\Components\\Pages\\DataAnnotationExampleFrontEnd.razor",
+              "RelativeToolTip": "WestWindWeb\\Components\\Pages\\DataAnnotationExampleFrontEnd.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T02:49:39.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonExample.cs",
+              "DocumentMoniker": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\WestWindLibrary\\Entities\\PersonExample.cs",
+              "RelativeDocumentMoniker": "WestWindLibrary\\Entities\\PersonExample.cs",
+              "ToolTip": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\WestWindLibrary\\Entities\\PersonExample.cs",
+              "RelativeToolTip": "WestWindLibrary\\Entities\\PersonExample.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAowFsAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:48:50.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryServices.cs",
+              "DocumentMoniker": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\WestWindLibrary\\BLL\\CategoryServices.cs",
+              "RelativeDocumentMoniker": "WestWindLibrary\\BLL\\CategoryServices.cs",
+              "ToolTip": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\WestWindLibrary\\BLL\\CategoryServices.cs",
+              "RelativeToolTip": "WestWindLibrary\\BLL\\CategoryServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:27:35.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\WestWindLibrary\\BLL\\ProductServices.cs",
+              "RelativeDocumentMoniker": "WestWindLibrary\\BLL\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\mesai\\Downloads\\Compressed\\Fall-2024-E02-Instructor-Workbook-main_2\\Fall-2024-E02-Instructor-Workbook-main\\WestWindExamples\\WestWindLibrary\\BLL\\ProductServices.cs",
+              "RelativeToolTip": "WestWindLibrary\\BLL\\ProductServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:27:30.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

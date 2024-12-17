@@ -1,0 +1,91 @@
+﻿@page "/products"
+<PageTitle>Product List</PageTitle>
+
+<h3>Product List</h3>
+
+<!--Error Area-->
+@if (errorMsgs.Count > 0)
+{
+    <div class="alert alert-danger">
+        <p>Please fix the following issues:</p>
+        <ul>
+            @foreach (var error in errorMsgs)
+            {
+                <li>@error</li>
+            }
+        </ul>
+    </div>
+}
+
+<div class="row mb-2">
+    <div class="col-8">
+        <label for="categorySelect" class="form-label">Select a Category:</label>
+        <select id="categorySelect" class="form-select" @bind="@categoryId">
+            @foreach (var item in categories)
+            {
+                <option value="@item.CategoryID">@item.CategoryName</option>
+            }
+        </select>
+    </div>
+    <div class="col-2 d-flex align-items-end justify-content-start ml-2">
+        <button type="submit" class="btn btn-secondary" @onclick="LoadProductsByCategory">Search By Category</button>
+    </div>
+    <div class="col-2 d-flex align-items-end justify-content-end">
+        <button type="submit" class="btn btn-success" @onclick="AddProduct">Add Product</button>
+    </div>
+</div>
+<div class="row">
+    <div class="col-8">
+        <InputText @bind-Value="productNameSearch" class="form-control"></InputText>
+    </div>
+    <div class="col-4 d-flex align-items-end justify-content-start ml-2">
+        <button type="submit" class="btn btn-secondary" @onclick="SearchProductsByName">Search by Product Name</button>
+    </div>
+
+</div>
+<div class="mt-5">
+    @if (products.Count == 0 && !noProducts)
+    {
+        <h4 class="text-center">Please select a category or enter a product name to display products.</h4>
+    }
+    else if (noProducts)
+    {
+        <h4 class="text-center">No products belong to the selected category or match the entered product name.</h4>
+    }
+    else
+    {
+        <div style="height:65vh;" class="overflow-auto">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th class="text-center">Product ID</th>
+                        <th class="text-center">Product Name</th>
+                        <th class="text-center">Category</th>
+                        <th class="text-center">Supplier</th>
+                        <th class="text-center">Unit Price</th>
+                        <th class="text-center">Discontinued</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var product in products)
+                    {
+                        <tr>
+                            <td class="text-end">@product.ProductID</td>
+                            <td>@product.ProductName</td>
+                            <td>@product.Category.CategoryName</td>
+                            <td>@product.Supplier.CompanyName</td>
+                            <td class="text-end">@product.UnitPrice.ToString("C")</td>
+                            <td class="text-center">
+                                <input type="checkbox" class="form-check-input" @bind="@product.Discontinued" disabled />
+                            </td>
+                            <td>
+                                <button class="btn btn-secondary rounded-pill" onclick="@(() => EditProduct(product.ProductID))">Edit</button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+</div>
